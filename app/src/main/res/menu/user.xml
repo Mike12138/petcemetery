@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/pet_name"
+            android:icon="@drawable/pet_name"
+            android:title="宠物名称：丫丫"/>
+        <item
+            android:id="@+id/pet_type"
+            android:icon="@drawable/pet_type"
+            android:title="宠物类型：狗狗"/>
+        <item
+            android:id="@+id/pet_age"
+            android:icon="@drawable/pet_age"
+            android:title="宠物年龄：3岁"/>
+        <item
+            android:id="@+id/pet_diary"
+            android:icon="@drawable/pet_diary"
+            android:title="宠物日记"/>
+        <item
+            android:id="@+id/host_num"
+            android:icon="@drawable/host_num"
+            android:title="主人电话：17960015476"/>
+    </group>
+</menu>
